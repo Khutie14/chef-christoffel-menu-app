@@ -86,6 +86,9 @@ Add Dish Screen
 
 ![image alt](https://github.com/Khutie14/chef-christoffel-menu-app/blob/main/AddDishScreen%20screenshot.jpeg?raw=true)
 
+Example of a Menu Overview 
+
+![image alt](https://github.com/Khutie14/chef-christoffel-menu-app/blob/main/Menu%20Overview%20screenshot.jpeg?raw=true)
 
 🧩 Acknowledgements
 React Native Documentation
