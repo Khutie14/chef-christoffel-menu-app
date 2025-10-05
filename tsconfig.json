@@ -1,5 +1,19 @@
 {
   "compilerOptions": {
-    "strict": true
-  }
+    "target": "esnext",                      
+    "module": "esnext",                      
+    "lib": ["esnext"],                       
+    "allowJs": true,                          
+    "jsx": "react-jsx",                       
+    "strict": true,                           
+    "moduleResolution": "node",              
+    "noEmit": true,                           
+    "esModuleInterop": true,                  
+    "skipLibCheck": true,                     
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,                
+    "isolatedModules": true                   
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules", "babel.config.js", "metro.config.js"]
 }
