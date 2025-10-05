@@ -78,6 +78,7 @@ Home Screen and Add Dish Screen are visually consistent for a user-friendly expe
 
 🖼️ Screenshots
 Home Screen
+![image alt](https://github.com/Khutie14/chef-christoffel-menu-app/blob/main/HomeScreen%20screenshot.jpeg?raw=true)
 Add Dish Screen
 
 🧩 Acknowledgements
