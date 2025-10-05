@@ -1,7 +1,7 @@
 # chef-christoffel-menu-app
 
 GitHub link:
-https://github.com/Khutie14/chef-christoffel-menu-app/edit/main/README.md
+https://github.com/Khutie14/chef-christoffel-menu-app/blob/main/README.md
 
 YouTube link:
 https://www.youtube.com/watch?v=BXB-u6t8gXw
